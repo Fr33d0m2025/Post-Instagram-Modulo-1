@@ -1,0 +1,60 @@
+
+body{
+    background-color: grey;
+}
+
+.Post{
+    font-family: "Roboto", sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+.Post-Header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.Header-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 10px;
+}
+
+.icon-Menu{
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    font-size: 30px;
+}
+
+.htmlIcon{
+    font-size: 35px;
+}
+
+#imagen{
+    width: 100%;
+    height: auto;
+}
+
+.Post-Icons{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons-left{
+    padding-left: 10px;
+}
+
+.icons-right{
+    padding-right: 10px;
+}
+
+.parrafos{
+    padding: 0px 10px;
+    justify-content: center;
+    text-align: justify;
+}
